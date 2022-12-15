@@ -6,4 +6,4 @@ Feed the required file format by editing the 'new_extension' variable on line 7
 
 Note:
 This script does NOT convert a file from one format to other. It is instead an automation script to change the extension of all files inside 
-a folder for god-knows-what purposes.
+a folder for all god-knows-what purposes.
